@@ -1,0 +1,6 @@
+Summary:
+This analysis examined school performance across different types and sizes of schools, focusing on key metrics like average math and reading scores, as well as the percentage of students passing these subjects. The data highlighted significant differences in performance between Charter and District schools, as well as the impact of school size on student outcomes.
+
+Conclusions:
+1. Charter schools consistently outperform District schools, suggesting that their educational strategies or environments might be more effective. (Charter schools showed higher average math and reading scores, with averages of 83.47 and 83.90, respectively, compared to 76.96 and 80.97 in District school)
+2. Smaller school sizes are linked to better student outcomes, likely due to more personalized attention and smaller class sizes.
